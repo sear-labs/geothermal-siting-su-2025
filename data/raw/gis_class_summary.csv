@@ -1,0 +1,6 @@
+class,total_area_sq_mi,hubzone_area_sq_mi,tribal_area_sq_mi,oil_wells,oil_wells_in_hubzones,oil_wells_in_tribal_communities
+Class 1,32050,10090,1838,20,1,0
+Class 2,144141,38776,10832,2200,201,22
+Class 3,196118,74051,48026,12000,5964,5752
+Class 4,221513,22641,18729,2000,334,290
+Class 5 and 999,236160,31320,18845,2300,663,370

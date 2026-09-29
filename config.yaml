@@ -1,0 +1,7 @@
+# Paths and run settings for scripts/run_all.py. The model's parameters (well
+# flow, efficiency, class temperatures, facility footprint) and the per-class
+# GIS areas are in the notebook, as published -- see CLAUDE.md, Part 11.
+notebook: notebooks/geothermal_calcs.ipynb
+run_dir: results/runs          # executed copy, gitignored
+tables_dir: results/tables     # committed
+cell_timeout_s: 600

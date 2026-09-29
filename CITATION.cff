@@ -1,0 +1,52 @@
+# From sear-labs/code-standard templates/CITATION.cff. Author list is the
+# PAPER's (Crossref). No software DOI until a Zenodo release exists -- then add
+# the CONCEPT DOI once. The DOI below is the paper's.
+
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "geothermal-siting-su-2025"
+type: software
+authors:
+  - family-names: Jones
+    given-names: Erick C.
+    name-suffix: Jr.
+    affiliation: "University of Texas at Arlington"
+  - family-names: Munjurpet Sridharan
+    given-names: Chandramouli
+    affiliation: "University of Texas at Arlington"
+  - family-names: Aghapour
+    given-names: Raziye
+    affiliation: "University of Texas at Arlington"
+  - family-names: Rodriguez
+    given-names: Angel
+    affiliation: "Harvard Kennedy School, Harvard University"
+repository-code: "https://github.com/sear-labs/geothermal-siting-su-2025"
+license: MIT
+keywords:
+  - geothermal
+  - site suitability
+  - tribal lands
+  - HUBZones
+  - enhanced geothermal systems
+  - oil and gas well repurposing
+  - organic Rankine cycle
+
+preferred-citation:
+  type: article
+  title: "Re-Energizing Legacy Fossil Infrastructure: Evaluating Geothermal Power in Tribal Lands and HUBZones"
+  year: 2025
+  journal: "Sustainability"
+  volume: 17
+  issue: 6
+  start: 2558
+  doi: "10.3390/su17062558"
+  authors:
+    - family-names: Jones
+      given-names: Erick C.
+      name-suffix: Jr.
+    - family-names: Munjurpet Sridharan
+      given-names: Chandramouli
+    - family-names: Aghapour
+      given-names: Raziye
+    - family-names: Rodriguez
+      given-names: Angel
