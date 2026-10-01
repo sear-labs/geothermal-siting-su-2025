@@ -39,6 +39,13 @@ scripts/run_all.py runs 3-4. It appends one export cell to the in-memory copy on
 
 ## Known defects and facts
 
+- **README "Known issues in the published paper" is the record of the paper's errata** (19
+  items, 2026-10-01, reviewed by Jones). Not sent to the journal, by Jones's decision. Read it
+  before changing any number here; `results/tables/` stays as published.
+- **The ArcGIS Online orphaned-well layer the analysis used now needs a sign-in.** A recount from
+  the public USGS release (doi:10.5066/P91PJETI) with this paper's polygon layers matched 5 of the
+  10 exact subset counts (Classes 1, 2, 4), not Classes 3 and 5: a different data version. Exact
+  per-class totals need the original ArcGIS project.
 - **Tables 4 and 5 reproduce the paper exactly**; Table 3 equals the notebook's inputs.
 - **Table 5 "Total" average plant capacity (94.94 MW) is a sum of the three class averages**,
   not an average; the capacity-weighted value is ~26.5 MW. Published as printed; pinned in
