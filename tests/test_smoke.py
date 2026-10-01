@@ -1,4 +1,4 @@
-"""Smoke tests for geothermal-siting-su-2025.
+"""Smoke tests for geothermal-siting-sustainability-2025.
 
 Adapted from sear-labs/code-standard templates/tests/test_smoke.py.
 

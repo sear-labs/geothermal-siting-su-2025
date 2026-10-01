@@ -1,4 +1,4 @@
-# geothermal-siting-su-2025
+# geothermal-siting-sustainability-2025
 
 Code for:
 
@@ -24,8 +24,8 @@ The paper maps U.S. geothermal potential (by temperature class) against tribal l
 ## Running it
 
 ```bash
-git clone https://github.com/sear-labs/geothermal-siting-su-2025.git
-cd geothermal-siting-su-2025
+git clone https://github.com/sear-labs/geothermal-siting-sustainability-2025.git
+cd geothermal-siting-sustainability-2025
 python3.11 -m venv .venv && source .venv/bin/activate
 pip install -e ".[notebooks]"               # exactly what ran: pip install -r requirements-lock.txt -e .
 python scripts/run_all.py

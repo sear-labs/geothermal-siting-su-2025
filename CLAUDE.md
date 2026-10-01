@@ -1,4 +1,4 @@
-# geothermal-siting-su-2025 conventions
+# geothermal-siting-sustainability-2025 conventions
 
 The portable standard governs this repo. Read it before working here:
   https://github.com/sear-labs/code-standard    canonical - the same from any machine
@@ -7,8 +7,10 @@ The portable standard governs this repo. Read it before working here:
 # Part 11 - This project specifically
 
 **Archetype A**, as a published artifact behind Jones, Munjurpet Sridharan, Aghapour &
-Rodriguez (2025), Sustainability 17(6), 2558, doi:10.3390/su17062558 (CC BY). Name: route 1,
-MDPI's alphabetic DOI stem `su`. Jones is first and corresponding author.
+Rodriguez (2025), Sustainability 17(6), 2558, doi:10.3390/su17062558 (CC BY). Name: journal
+spelled out. MDPI's DOI stem is `su`, which tells a reader nothing, so the name uses
+`sustainability`, as `energies` and `logistics` do in this org (Jones, 2026-10-01; renamed from
+`geothermal-siting-su-2025` before the first release). Jones is first and corresponding author.
 
 ## Four axes (Part 2c)
 

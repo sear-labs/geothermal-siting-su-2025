@@ -4,7 +4,7 @@
 
 cff-version: 1.2.0
 message: "If you use this code, please cite the paper below."
-title: "geothermal-siting-su-2025"
+title: "geothermal-siting-sustainability-2025"
 type: software
 authors:
   - family-names: Jones
@@ -20,7 +20,7 @@ authors:
   - family-names: Rodriguez
     given-names: Angel
     affiliation: "Harvard Kennedy School, Harvard University"
-repository-code: "https://github.com/sear-labs/geothermal-siting-su-2025"
+repository-code: "https://github.com/sear-labs/geothermal-siting-sustainability-2025"
 license: MIT
 keywords:
   - geothermal
