@@ -1,6 +1,6 @@
 [project]
 name = "geothermal-siting-sustainability-2025"
-version = "1.0.0"
+version = "1.0.1"
 description = "Geothermal potential on tribal lands and HUBZones (Jones, Munjurpet Sridharan, Aghapour & Rodriguez, Sustainability 2025)"
 readme = "README.md"
 license = { text = "MIT" }

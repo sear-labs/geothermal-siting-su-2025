@@ -1,10 +1,13 @@
 # geothermal-siting-sustainability-2025
 
+[![Paper DOI](https://img.shields.io/badge/paper-10.3390%2Fsu17062558-blue)](https://doi.org/10.3390/su17062558)
+[![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23087858.svg)](https://doi.org/10.5281/zenodo.23087858)
+
 Code for:
 
 > Jones, E. C. Jr., Munjurpet Sridharan, C., Aghapour, R., & Rodriguez, A. (2025). **Re-Energizing Legacy Fossil Infrastructure: Evaluating Geothermal Power in Tribal Lands and HUBZones.** *Sustainability*, 17(6), 2558. https://doi.org/10.3390/su17062558
 
-**Status:** published artifact — reproduces the paper's Tables 4 and 5 exactly, and the "This Study" column of Table 2, from `python scripts/run_all.py` (2026-09-29). The GIS analysis that produced Table 3 was done in ArcGIS and is not re-run here. Not yet run from a clean clone on a second machine.
+**Status:** published artifact — reproduces the paper's Tables 4 and 5 exactly, and the "This Study" column of Table 2, from `python scripts/run_all.py` (2026-09-29). The GIS analysis that produced Table 3 was done in ArcGIS and is not re-run here. Re-run from a fresh clone on a second machine (Windows, Python 3.11, CoolProp 6.7.0) on 2026-10-01 and checked against every number in the published tables: identical to the printed precision.
 
 ## What it does
 
@@ -167,6 +170,8 @@ total uses the wrong kind of average, and several assumptions were not stated. W
 ```
 
 GitHub's **Cite this repository** button reads the same from `CITATION.cff`.
+
+To cite the code itself, use its Zenodo concept DOI, [10.5281/zenodo.23087858](https://doi.org/10.5281/zenodo.23087858), which always resolves to the latest version. **v1.0.1 is the first complete release.** v1.0.0 (2026-10-01) archived the same code and data but was cut from an earlier commit that lacks this README's known issues and licence table, so v1.0.1 supersedes it.
 
 ## License
 

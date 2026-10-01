@@ -1,11 +1,13 @@
 # From sear-labs/code-standard templates/CITATION.cff. Author list is the
-# PAPER's (Crossref). No software DOI until a Zenodo release exists -- then add
-# the CONCEPT DOI once. The DOI below is the paper's.
+# PAPER's (Crossref). The top-level doi is the Zenodo CONCEPT DOI for this
+# software (always the latest version; never change it). The preferred-citation
+# doi is the paper's.
 
 cff-version: 1.2.0
 message: "If you use this code, please cite the paper below."
 title: "geothermal-siting-sustainability-2025"
 type: software
+doi: "10.5281/zenodo.23087858"
 authors:
   - family-names: Jones
     given-names: Erick C.
