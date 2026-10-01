@@ -1,0 +1,43 @@
+{
+  "upload_type": "software",
+  "license": "mit-license",
+  "creators": [
+    {
+      "name": "Jones, Erick C., Jr.",
+      "affiliation": "University of Texas at Arlington",
+      "orcid": "0000-0003-0559-4699"
+    },
+    {
+      "name": "Munjurpet Sridharan, Chandramouli",
+      "affiliation": "University of Texas at Arlington"
+    },
+    {
+      "name": "Aghapour, Raziye",
+      "affiliation": "University of Texas at Arlington"
+    },
+    {
+      "name": "Rodriguez, Angel",
+      "affiliation": "Harvard Kennedy School, Harvard University"
+    }
+  ],
+  "access_right": "open",
+  "title": "Geothermal siting on tribal lands and HUBZones - Sustainability 2025 paper code",
+  "description": "<p>The calculations behind Jones, Munjurpet Sridharan, Aghapour and Rodriguez (2025), <em>Sustainability</em> 17(6), 2558: power per repurposed oil and gas well from an R134a organic Rankine cycle (CoolProp), and enhanced-geothermal capacity and facility counts by temperature class across U.S. tribal lands and HUBZones.</p><p><code>python scripts/run_all.py</code> reproduces the paper's Tables 4 and 5 exactly, and the \"This Study\" column of Table 2, in seconds with no solver or licence. The GIS suitability analysis behind Table 3 was done in ArcGIS and is not re-run; its per-class results are included as data, held identical to the printed table by a test, and the layers are published separately.</p><p>Code is MIT-licensed; the data and result tables are CC BY 4.0. The README records three known issues in the published tables, none of which changes a conclusion.</p>",
+  "related_identifiers": [
+    {
+      "identifier": "10.3390/su17062558",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    }
+  ],
+  "keywords": [
+    "geothermal",
+    "site suitability",
+    "tribal lands",
+    "HUBZones",
+    "enhanced geothermal systems",
+    "oil and gas well repurposing",
+    "organic Rankine cycle"
+  ]
+}

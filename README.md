@@ -79,4 +79,9 @@ GitHub's **Cite this repository** button reads the same from `CITATION.cff`.
 
 ## License
 
-Code: MIT — see [LICENSE](LICENSE). The paper is open access under CC BY 4.0; read it via the DOI.
+| What | Licence |
+|---|---|
+| Code: `notebooks/`, `scripts/`, `tests/`, and the rest of the repository | MIT, see [LICENSE](LICENSE) |
+| Data and results: `data/raw/` and `results/tables/` | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+
+The paper is open access under CC BY 4.0; read it via the DOI.
